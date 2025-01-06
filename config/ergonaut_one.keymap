@@ -73,8 +73,8 @@
         game {
             bindings = <
 &kp TAB    &kp Q  &kp W  &kp E    &kp R      &kp T     &trans  &trans     &trans           &trans     &kp TAB    &trans
-&kp LCTRL  &kp A  &kp S  &kp D    &kp F      &kp G     &trans  &kp LEFT   &kp UP           &kp RIGHT  &kp LSHFT  &trans
-&kp LSHFT  &kp Z  &kp X  &kp C    &kp V      &kp B     &trans  &trans     &kp DOWN         &trans     &kp LCTRL  &trans
+&kp LSHFT  &kp A  &kp S  &kp D    &kp F      &kp G     &trans  &kp LEFT   &kp UP           &kp RIGHT  &kp LSHFT  &trans
+&kp LCTRL  &kp Z  &kp X  &kp C    &kp V      &kp B     &trans  &trans     &kp DOWN         &trans     &kp LCTRL  &trans
                          &kp ESC  &kp SPACE  &kp LALT  &tog 3  &kp SPACE  &kp PRINTSCREEN
             >;
         };
