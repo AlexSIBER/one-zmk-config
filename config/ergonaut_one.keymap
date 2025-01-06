@@ -11,10 +11,7 @@
 
 &mt { quick-tap-ms = <100>; };
 
-&sk {
-    release-after-ms = <2000>;
-    quick-release;
-};
+&sk { release-after-ms = <2000>; };
 
 &sl { release-after-ms = <2000>; };
 
