@@ -41,10 +41,10 @@
 
         home {
             bindings = <
-&kp RBKT   &kp Q       &kp W       &kp E        &kp R         &kp T      &kp Y        &kp U         &kp I        &kp O       &kp P          &kp LBKT
-&kp GRAVE  &hm LGUI A  &hm LALT S  &hm LCTRL D  &hm LSHIFT F  &kp G      &kp H        &hm LSHIFT J  &hm LCTRL K  &hm LALT L  &hm LGUI SEMI  &kp APOSTROPHE
-&kp MINUS  &kp Z       &kp X       &kp C        &kp V         &kp B      &kp N        &kp M         &kp COMMA    &kp DOT     &kp FSLH       &kp BACKSLASH
-                                   &kp ESC      &lt 2 SPACE   &lt 1 TAB  &lt 1 ENTER  &lt 2 BSPC    &kp DEL
+&kp RBKT   &kp Q       &kp W       &kp E        &kp R         &kp T        &kp Y         &kp U         &kp I        &kp O       &kp P          &kp LBKT
+&kp GRAVE  &hm LGUI A  &hm LALT S  &hm LCTRL D  &hm LSHIFT F  &kp G        &kp H         &hm LSHIFT J  &hm LCTRL K  &hm LALT L  &hm LGUI SEMI  &kp APOSTROPHE
+&kp MINUS  &kp Z       &kp X       &kp C        &kp V         &kp B        &kp N         &kp M         &kp COMMA    &kp DOT     &kp FSLH       &kp BACKSLASH
+                                   &kp TAB      &lt 1 SPACE   &lt 2 ENTER  &lt 2 ESCAPE  &lt 1 BSPC    &kp DEL
             >;
         };
 
