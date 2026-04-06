@@ -40,7 +40,7 @@
         dr_comma: dr_comma {
             compatible = "zmk,behavior-mod-morph";
             label = "DR_COMMA";
-            bindings = <&kp LS(SLASH)>, <&kp LS(NUMBER_6)>;
+            bindings = <&kp LS(SLASH)>, <&kp LS(NUMBER_7)>;
 
             #binding-cells = <0>;
             mods = <(MOD_LSFT|MOD_RSFT)>;
