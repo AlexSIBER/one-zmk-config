@@ -88,10 +88,10 @@
 
         dr {
             bindings = <
-&kp O      &kp W  &dr_soft_sign  &kp Z     &dr_comma  &dr_dot  &kp P      &kp D   &kp R   &kp L  &kp X     &kp I
-&kp GRAVE  &kp E  &kp B          &kp T     &kp J      &kp F    &kp K      &kp Y   &kp N   &kp C  &kp H     &kp Q
-&togl_dr   &kp A  &kp APOS       &kp LBKT  &kp S      &kp DOT  &kp COMMA  &kp V   &kp G   &kp U  &kp SEMI  &trans
-                                 &trans    &trans     &trans   &trans     &trans  &trans
+&kp O      &kp W           &dr_soft_sign   &kp Z        &dr_comma         &dr_dot  &kp P      &kp D         &kp R        &kp L       &kp X        &kp I
+&kp GRAVE  &hm LEFT_WIN E  &hm LEFT_ALT B  &hm LCTRL T  &hm LEFT_SHIFT J  &kp F    &kp K      &hm RSHIFT Y  &hm RCTRL N  &hm RALT C  &hm RMETA H  &kp Q
+&togl_dr   &kp A           &kp APOS        &kp LBKT     &kp S             &kp DOT  &kp COMMA  &kp V         &kp G        &kp U       &kp SEMI     &trans
+                                           &trans       &trans            &trans   &trans     &trans        &trans
             >;
         };
 
