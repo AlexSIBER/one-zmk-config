@@ -87,8 +87,8 @@
         dv {
             bindings = <
 &kp RBKT   &kp APOS    &kp COMMA   &kp DOT      &kp P         &kp Y        &kp F      &kp G         &kp C        &kp R       &kp L       &kp LBKT
-&kp GRAVE  &hm LGUI A  &hm LALT O  &hm LCTRL E  &hm LSHIFT U  &kp I        &kp D      &hm LSHIFT H  &hm LCTRL T  &hm LALT N  &hm LGUI S  &kp SLASH
-&to_dr     &kp SEMI    &kp Q       &kp J        &kp K         &kp X        &kp B      &kp M         &kp W        &kp V       &kp Z       &none
+&kp GRAVE  &hm LGUI A  &hm LALT O  &hm LCTRL E  &hm LSHIFT U  &kp I        &kp D      &hm LSHIFT H  &hm LCTRL T  &hm LALT N  &hm LGUI S  &none
+&to_dr     &kp SEMI    &kp Q       &kp J        &kp K         &kp X        &kp B      &kp M         &kp W        &kp V       &kp Z       &kp SLASH
                                    &kp ESCAPE   &lt 2 SPACE   &lt 3 ENTER  &lt 3 TAB  &lt 2 BSPC    &kp DEL
             >;
         };
@@ -96,8 +96,8 @@
         dr {
             bindings = <
 &kp O      &kp W           &dr_soft_sign   &kp Z        &dr_comma         &dr_dot  &kp P      &kp D         &kp R        &kp L       &kp X        &kp I
-&kp GRAVE  &hm LEFT_WIN E  &hm LEFT_ALT B  &hm LCTRL T  &hm LEFT_SHIFT J  &kp F    &kp K      &hm RSHIFT Y  &hm RCTRL N  &hm RALT C  &hm RMETA H  &kp LS(BACKSLASH)
-&to_dv     &kp A           &kp APOS        &kp LBKT     &kp S             &kp DOT  &kp COMMA  &kp V         &kp G        &kp U       &kp SEMI     &kp Q
+&kp GRAVE  &hm LEFT_WIN E  &hm LEFT_ALT B  &hm LCTRL T  &hm LEFT_SHIFT J  &kp F    &kp K      &hm RSHIFT Y  &hm RCTRL N  &hm RALT C  &hm RMETA H  &kp Q
+&to_dv     &kp A           &kp APOS        &kp LBKT     &kp S             &kp DOT  &kp COMMA  &kp V         &kp G        &kp U       &kp SEMI     &kp LS(BACKSLASH)
                                            &trans       &trans            &trans   &trans     &trans        &trans
             >;
         };
